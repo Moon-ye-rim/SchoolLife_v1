@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SchoolLife_v1</string>
+    <string name="fragment1">일정 탭</string>
+    <string name="fragment2">홈 탭</string>
+    <string name="fragment3">기록 탭</string>
+    <string name="appbar_scrolling_view_behavior">뭐해야되는데</string>
+</resources>
